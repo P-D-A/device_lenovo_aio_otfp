@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "android_device_zeaplus_m7",
+        "target_path": "device/zeaplus/m7"
+    },
+    {
+        "repository": "android_kernel_zeaplus_m7",
+        "target_path": "kernel/zeaplus/m7"
+    }
+]
